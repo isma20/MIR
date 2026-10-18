@@ -21,6 +21,4 @@ cd [repo-name]
 [install and run commands]
 ```
 
-## Screenshots
-![Home](screenshots/home.png)
-![Cart](screenshots/cart.png)
+
